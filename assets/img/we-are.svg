@@ -1,7 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="111.01px" height="35.75px" viewBox="0 0 111.01 35.75" enable-background="new 0 0 111.01 35.75" xml:space="preserve">
-<text transform="matrix(1 0 0 1 0 31.6138)" fill="#FFFFFF" font-family="'ONRAMP'" font-size="44">WE ARE</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="107px" height="19px" viewBox="0 0 107 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="we-are" sketch:type="MSLayerGroup" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSShapeGroup">
+                <path d="M0,19.228 L0,0 L4.488,0 L4.488,15.048 L8.8,6.996 L11.704,6.996 L16.016,15.048 L16.016,0 L20.504,0 L20.504,19.228 L13.508,19.228 L10.252,14.212 L6.996,19.228 L0,19.228 L0,19.228 Z" id="Shape"></path>
+                <path d="M28.908,4.136 L28.908,7.656 L34.408,7.656 L34.408,11.704 L28.908,11.704 L28.908,15.18 L38.896,15.18 L38.896,19.228 L24.464,19.228 L24.464,0 L38.896,0 L38.896,4.136 L28.908,4.136 L28.908,4.136 Z" id="Shape"></path>
+                <path d="M66.967,19.228 L65.471,14.696 L58.343,14.696 L56.803,19.228 L52.14,19.228 L58.432,0.044 L65.34,0.044 L71.632,19.228 L66.967,19.228 L66.967,19.228 Z M61.908,4.092 L59.708,10.56 L64.064,10.56 L61.908,4.092 L61.908,4.092 Z" id="Shape"></path>
+                <path d="M85.799,19.228 L81.399,12.628 L78.143,12.628 L78.143,19.228 L73.611,19.228 L73.611,0 L86.679,0 C87.324,0 87.867,0.198 88.307,0.594 C88.747,0.99 88.967,1.467 88.967,2.024 L88.967,10.56 C88.967,11.147 88.747,11.638 88.307,12.034 C87.867,12.43 87.324,12.628 86.679,12.628 L91.079,19.228 L85.799,19.228 L85.799,19.228 Z M78.143,8.536 L84.435,8.536 L84.435,4.092 L78.143,4.092 L78.143,8.536 L78.143,8.536 Z" id="Shape"></path>
+                <path d="M97.59,4.136 L97.59,7.656 L103.09,7.656 L103.09,11.704 L97.59,11.704 L97.59,15.18 L107.578,15.18 L107.578,19.228 L93.147,19.228 L93.147,0 L107.579,0 L107.579,4.136 L97.59,4.136 L97.59,4.136 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
 </svg>
