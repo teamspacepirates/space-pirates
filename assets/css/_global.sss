@@ -1,3 +1,57 @@
-body
-  padding: 50px
-  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif
+*
+  margin: 0
+
+html, body
+  height: 100%
+  background: black url('/img/star_bg.jpg') repeat
+  font-family: league-gothic
+  color: #fff
+  font-weight: 200
+
+  & #main
+    min-height: 100%
+    margin-bottom: -109px
+
+    &:after
+      content: ""
+      display: block
+      height: 109px
+
+#home
+  padding-top: 60px
+  lost-center: 320px
+  text-align: center
+  text-transform: uppercase
+
+  & .label
+    margin-top: .5em
+    margin-bottom: 2em
+
+    & h1
+      letter-spacing: .05em
+      margin: 7px 0 0
+      font-weight: normal
+
+    & h2
+      display: block
+      width: 119px
+      height: 33px
+      text-indent: -9000px
+      background: url('/img/we-are.svg') no-repeat
+      margin: 0 auto
+
+    & h1
+      font-size: 2.75em
+
+footer
+  height: 109px
+  display: block
+  background: url('/img/bottom-moon.png') bottom center no-repeat
+
+#contact a
+  text-indent: -9000px
+  width: 150px
+  height: 45px
+  display: block
+  background: url('/img/contact_us.svg') no-repeat
+  margin: 0 auto

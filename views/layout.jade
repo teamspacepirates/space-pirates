@@ -7,8 +7,7 @@ html
       meta(http-equiv='X-UA-Compatible', content='IE=edge, chrome=1')
       meta(name='description', content='')
       meta(name='author', content= "teamspacepirates")
-      //- uncomment if your site is responsive!
-      //- meta(name="viewport" content="width=device-width, initial-scale=1")
+      meta(name="viewport" content="width=device-width, initial-scale=1")
       
     script(src="//use.typekit.net/vtj1bkr.js")
     script.
@@ -25,7 +24,9 @@ html
       link(rel='stylesheet', href='/css/index.css')
 
   body
-    block content
-
+    #main 
+      block content
+    include _footer
+    
     block javascript
       script(src='/js/main.js')
