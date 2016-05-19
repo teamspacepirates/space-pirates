@@ -13,6 +13,7 @@
     "lost": "^6.8.0",
     "postcss-cssnext": "2.5.x",
     "rucksack-css": "0.8.x",
+    "spike": "^0.3.0",
     "sugarss": "0.1.x"
   },
   "devDependencies": {
