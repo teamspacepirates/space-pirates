@@ -24,6 +24,14 @@ html, body
   text-align: center
   text-transform: uppercase
 
+  & .byline
+    text-transform: none
+    letter-spacing: 2px
+    font-weight: normal
+    opacity: .5
+    padding-top: 30px
+    margin-bottom: 30px
+
   & .label
     margin-top: .5em
     margin-bottom: 2em
@@ -81,8 +89,6 @@ footer
   text-indent: -9000px
   margin: 0 auto
 
-
-
   &.robin
     background: svg-load(../img/investments/robin.svg)
 
@@ -112,3 +118,15 @@ footer
   &.efsharp
     background: svg-load(../img/investments/efsharp.svg)
     width: 82px
+
+.partners
+  display: block
+  margin-top: 80px
+  font-size: 1.25em
+
+  & h3
+    letter-spacing: 2px
+    margin-bottom: 10px
+
+  & p
+    opacity: .5
