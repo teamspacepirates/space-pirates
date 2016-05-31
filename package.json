@@ -12,15 +12,16 @@
     "babel-preset-stage-2": "6.x",
     "lost": "^6.8.0",
     "postcss-cssnext": "2.5.x",
+    "postcss-inline-svg": "^1.4.0",
     "rucksack-css": "0.8.x",
-    "spike": "^0.3.0",
+    "spike": "^0.4.0",
     "sugarss": "0.1.x"
   },
   "devDependencies": {
     "ava": "0.14.x",
     "rimraf": "2.5.x",
     "snazzy": "3.0.x",
-    "spike-core": "0.3.x",
+    "spike-core": "0.4.x",
     "standard": "7.x"
   },
   "homepage": "https://github.com/teamspacepirates/teamspacepirates-com",
